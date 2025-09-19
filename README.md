@@ -8,7 +8,7 @@
 
 ## 🚀 Sobre mí
 
-¡Hola! Soy un estudiante apasionado de Ingeniería en Software, actualmente cursando mi 2º cuatrimestre en la Universidad Politécnica de Tecámac. Me encanta crear y dar vida a ideas a través del código. Mi enfoque principal es el desarrollo web, pero siempre estoy ansioso por explorar nuevas tecnologías y expandir mis horizontes en el mundo del desarrollo.
+¡Hola! Soy un estudiante apasionado de Ingeniería en Software, actualmente cursando mi 4º cuatrimestre en la Universidad Politécnica de Tecámac. Me encanta crear y dar vida a ideas a través del código. Mi enfoque principal es el desarrollo web, pero siempre estoy ansioso por explorar nuevas tecnologías y expandir mis horizontes en el mundo del desarrollo.
 
 ## 💻 Tecnologías y Herramientas
 
@@ -36,7 +36,7 @@
 
 <div align="center">
   
-[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/danx.rtk)
+[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/a.eiou1410)
 
 </div>
 
